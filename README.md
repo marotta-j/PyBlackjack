@@ -1,1 +1,1 @@
-PyBlackjack 2
+PyBlackjack
