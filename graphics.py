@@ -95,7 +95,7 @@ while running:
         reset()
 
     # Update the display
-    pygame.display.flip()
+    pygame.display.update()
 
     if standing:
         pygame.time.wait(2000)
